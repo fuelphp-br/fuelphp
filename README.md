@@ -48,5 +48,5 @@ https://fuelphp.com/docs/installation/instructions.html
 ## Criação rápida de aplicativos
 Usando o oil criamos muito rapidamente um aplicativo. Isso não somente é rápido, mas muito importante é que ele nos oferece um código bem testado e debugado e para quem está começando é útil ver como deve ser um código funcional.
 
-
-
+## Veja a tela de um aplicativo criado com o oil, depois do login
+![](https://github.com/fuelphp-br/fuelphp-apps/fueloriginal.png)
