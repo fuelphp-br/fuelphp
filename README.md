@@ -51,6 +51,9 @@ Usando o oil criamos muito rapidamente um aplicativo. Isso não somente é rápi
 ## Veja a tela de um aplicativo criado com o oil, depois do login
 ![](https://github.com/fuelphp-br/fuelphp-apps/blob/master/fueltelainicial.png)
 
+## Tela inicial de cliente
+![](https://github.com/fuelphp-br/fuelphp-apps/blob/master/fuelclientes.png)
+
 ## Para criar um aplicativo com facilidade  e bons recursos veja
 
 - Configurações - https://github.com/fuelphp-br/fuelphp-config
