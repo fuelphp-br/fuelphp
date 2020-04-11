@@ -45,6 +45,9 @@ https://fuelphp.com/docs/installation/instructions.html
 - Na criação de model é criada a respectiva migration
 - Geração de testes unitários com o PHPUnit
 
+## Sugestão
+Com todos estes recursos e facilidades e é free, então vale a pena pelo menos testar para ver se é realmente assim.
+
 ## Criação rápida de aplicativos
 Usando o oil criamos muito rapidamente um aplicativo. Isso não somente é rápido, mas muito importante é que ele nos oferece um código bem testado e debugado e para quem está começando é útil ver como deve ser um código funcional.
 
