@@ -61,3 +61,11 @@ Usando o oil criamos muito rapidamente um aplicativo. Isso não somente é rápi
 
 - Configurações - https://github.com/fuelphp-br/fuelphp-config
 - Aplicativos - https://github.com/fuelphp-br/fuelphp-apps (inclui aplicativo de demonstração cadastro. Faça o download)
+
+## Diferenças
+- Um aplicativo com o Fuel 1.8.2, com 2 tabelas e admin, depois de compactado com zip fica com 3,4 MB
+- Com CakePHP 4 fica com 9MB
+- Com laravel 7 usando Vue fica com mais de 300MB
+
+## Agora desempenho
+https://github.com/kenjis/php-framework-benchmark
