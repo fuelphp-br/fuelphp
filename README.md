@@ -57,4 +57,4 @@ Usando o oil criamos muito rapidamente um aplicativo. Isso não somente é rápi
 ## Para criar um aplicativo com facilidade  e bons recursos veja
 
 - Configurações - https://github.com/fuelphp-br/fuelphp-config
-- Aplicativos - https://github.com/fuelphp-br/fuelphp-apps (aplicativo de demonstração. Faça o download)
+- Aplicativos - https://github.com/fuelphp-br/fuelphp-apps (inclui aplicativo de demonstração cadastro. Faça o download)
